@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there! i'm Winnie👋
 
+---
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/https://web.facebook.com/winnifredk)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkuutsangKaze?t=unuPgueZnf3fNfP5JqnRpg&s=09)
 <!--
 **akuutsang/akuutsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
